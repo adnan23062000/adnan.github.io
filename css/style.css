@@ -1,0 +1,94 @@
+html,body{
+    height:100%;
+}
+
+.carousel,.item,.active{
+    height:100%;
+}
+
+.carousel-inner{
+     height:100%;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container{
+    background-color: #CACACA;
+}
+
+.banner-column{
+    background-color: #8D8D8D;
+}
+
+.about-container{
+    background-color: #00BDBD;
+}
+
+.education-container{
+    background-color: #EEEEEE;
+}
+
+.redtype-color{
+    color: #FB8578;
+}
+
+.bg-redtype-color{
+    background-color: #FB8578;
+}
+
+.bg-redtype-color:hover{
+    color: black!important;
+}
+
+.circle{
+    background-color: #FB8578;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.project-container{
+    background-color: #2BB3DD;
+}
+
+.link-a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.navbar-container{
+    top: 0;
+    position: sticky;
+    z-index: 1;
+}
+
+.form-container{
+    background-color: #474D5D;
+}
+
+.inner-form{
+    background-color: #585f73;
+}
+
+.footer{
+    background-color: #2BB3DD;
+}
+
+.circle2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.circle2:hover{
+    background-color: #CACACA;
+}
